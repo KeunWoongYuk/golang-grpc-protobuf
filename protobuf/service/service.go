@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	pb "grpc-protobuf/src/helloworld"
+	pb "grpc-protobuf/protobuf/helloworld"
 	"log"
 )
 
