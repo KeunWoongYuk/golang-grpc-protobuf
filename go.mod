@@ -1,4 +1,4 @@
-module github.com/KeunWoongYuk/golang-grpc-protobuf
+module golang-grpc-protobuf
 
 go 1.21.1
 
