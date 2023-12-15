@@ -2,7 +2,7 @@
 // versions:
 // - protoc-gen-go-grpc v1.3.0
 // - protoc             v3.19.1
-// source: grpc/helloworld/helloworld.proto
+// source: src/helloworld/helloworld.proto
 
 package __
 
@@ -107,5 +107,5 @@ var Greeter_ServiceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "grpc/helloworld/helloworld.proto",
+	Metadata: "src/helloworld/helloworld.proto",
 }
